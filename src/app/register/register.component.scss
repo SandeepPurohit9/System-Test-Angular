@@ -1,0 +1,9 @@
+.card {
+    width: 30vw;
+    margin: auto;
+
+    .link-type:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}
